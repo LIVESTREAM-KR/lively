@@ -17,3 +17,23 @@ linkSelector = "*"
 contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
 imageSelector = "picture img"
 waitUntil = "networkidle"
+
+[live]
+title = "Lively ─ LIVE"
+url = "https://livelystage.com/"
+entrySelector = "div[class='_1p16JFLcoztZiP5rl_UJN _3iQKPGQpf6yCLeK1fODQfU _2JVQlLkNRdqx0AMD36LaED']"
+titleSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _2S7SnIRM2K15_EZwtwZDYN _2Db1pnG5RkomRNtmorkUzD _2zxhtTExfsQZ_hUOU-6rws Q0JcFw8SkealbbCjQWx-J _2uRTnsZJg-xOY_1DhuV0Ck']"
+linkSelector = "a[class='_2dv-gUdbN5s-Jlp8T_wlB1 _2msYHPhi0NAdufuChrmGlN _14FiTUaytcxV_vz0khY80v HiXOmVi3LQ_vPvpO-MCAr SqupGKI_CrjYiAhjDUfi5 _2msYHPhi0NAdufuChrmGlN']"
+contentSelector = "div[class='_28X1nbkP1aWsT_-Me0xLFk _3iQKPGQpf6yCLeK1fODQfU _1dNaWbfKqZ7kQyJplZSgES _1KVdHd565AkGUJl_88Wk4C _1RhspIhvrI6knH1RJPLCP-']"
+imageSelector = "picture[class='_3UlXS77zdl8WyZZsKVjEnF _5ta0uZRkOg1Jj3DRbp7Tr _2ZnMPK7SHGHXPJrDQSSMi6'] img"
+waitUntil = "networkidle"
+
+[live_legacy]
+title = "Lively ─ LIVE"
+url = "https://livelystage.com/"
+entrySelector = "div[class='_1p16JFLcoztZiP5rl_UJN _3iQKPGQpf6yCLeK1fODQfU _2JVQlLkNRdqx0AMD36LaED']"
+titleSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
+linkSelector = "a[class='_2dv-gUdbN5s-Jlp8T_wlB1 _2msYHPhi0NAdufuChrmGlN _14FiTUaytcxV_vz0khY80v HiXOmVi3LQ_vPvpO-MCAr SqupGKI_CrjYiAhjDUfi5 _2msYHPhi0NAdufuChrmGlN']"
+contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
+imageSelector = "picture[class='_3UlXS77zdl8WyZZsKVjEnF _5ta0uZRkOg1Jj3DRbp7Tr _2ZnMPK7SHGHXPJrDQSSMi6'] img"
+waitUntil = "networkidle"
