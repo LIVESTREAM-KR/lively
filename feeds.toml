@@ -8,13 +8,13 @@ contentSelector = "div._28X1nbkP1aWsT_-Me0xLFk._3iQKPGQpf6yCLeK1fODQfU._1dNaWbfK
 imageSelector = "div.VJYVkwA11rqtFzXbwlVNE.sikWNuQ2ER6AkuokiCDEX._1pgEepHTIo4tJ2ApNjwalc._2msYHPhi0NAdufuChrmGlN > div > div > picture > img"
 waitUntil = "networkidle"
 
-[legacy]
+[lively_legacy]
 title = "Lively"
 url = "https://livelystage.com/"
 entrySelector = "a._3iQKPGQpf6yCLeK1fODQfU"
-titleSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
+titleSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU'] div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
 linkSelector = "*"
-contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
+contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU'] div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(1) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
 imageSelector = "picture img"
 waitUntil = "networkidle"
 
@@ -34,6 +34,6 @@ url = "https://livelystage.com/"
 entrySelector = "div[class='_1p16JFLcoztZiP5rl_UJN _3iQKPGQpf6yCLeK1fODQfU _2JVQlLkNRdqx0AMD36LaED']"
 titleSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
 linkSelector = "a[class='_2dv-gUdbN5s-Jlp8T_wlB1 _2msYHPhi0NAdufuChrmGlN _14FiTUaytcxV_vz0khY80v HiXOmVi3LQ_vPvpO-MCAr SqupGKI_CrjYiAhjDUfi5 _2msYHPhi0NAdufuChrmGlN']"
-contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
+contentSelector = "div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU'] div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(1) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _3iQKPGQpf6yCLeK1fODQfU']:nth-child(2) div[class='_2msYHPhi0NAdufuChrmGlN _334cIKS891c_nxBxCI0IeA ECo76jUO2QkZ7z99fKsu8 _2zxhtTExfsQZ_hUOU-6rws _2uRTnsZJg-xOY_1DhuV0Ck']"
 imageSelector = "picture[class='_3UlXS77zdl8WyZZsKVjEnF _5ta0uZRkOg1Jj3DRbp7Tr _2ZnMPK7SHGHXPJrDQSSMi6'] img"
 waitUntil = "networkidle"
