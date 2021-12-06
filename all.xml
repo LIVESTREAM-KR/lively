@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -227,7 +227,7 @@
             <title><![CDATA[숨비 (Lively)]]></title>
             <link>https://livelystage.com/live-detail/205</link>
             <guid>https://livelystage.com/live-detail/205</guid>
-            <pubDate>Mon, 06 Dec 2021 08:18:02 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 08:17:55 GMT</pubDate>
             <content:encoded><![CDATA[12월 20일 (월) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/205_poster.png" length="0" type="image/png"/>
         </item>
@@ -235,7 +235,7 @@
             <title><![CDATA[828 (Lively)]]></title>
             <link>https://livelystage.com/live-detail/206</link>
             <guid>https://livelystage.com/live-detail/206</guid>
-            <pubDate>Mon, 06 Dec 2021 08:18:02 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 08:17:55 GMT</pubDate>
             <content:encoded><![CDATA[12월 21일 (화) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/206_poster.png" length="0" type="image/png"/>
         </item>
@@ -243,7 +243,7 @@
             <title><![CDATA[은은 (Lively)]]></title>
             <link>https://livelystage.com/live-detail/207</link>
             <guid>https://livelystage.com/live-detail/207</guid>
-            <pubDate>Mon, 06 Dec 2021 08:18:02 GMT</pubDate>
+            <pubDate>Mon, 06 Dec 2021 08:17:55 GMT</pubDate>
             <content:encoded><![CDATA[12월 22일 (수) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/207_poster.png" length="0" type="image/png"/>
         </item>
