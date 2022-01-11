@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Lively ─ LIVE</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 12:24:06 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[문소문]]></title>
-            <link>https://livelystage.com/live-detail/213</link>
-            <guid>https://livelystage.com/live-detail/213</guid>
-            <pubDate>Tue, 11 Jan 2022 12:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[1월 11일 (화) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/213_poster.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://livelystage.com/</id>
+    <title>Lively ─ LIVE</title>
+    <updated>2022-01-11T13:23:48.718Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://livelystage.com/favicon.png</icon>
+</feed>
