@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Lively ─ LIVE</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 12:24:59 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[임단우]]></title>
-            <link>https://livelystage.com/live-detail/220</link>
-            <guid>https://livelystage.com/live-detail/220</guid>
-            <pubDate>Tue, 18 Jan 2022 12:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[1월 18일 (화) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/220_poster.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://livelystage.com/</id>
+    <title>Lively ─ LIVE</title>
+    <updated>2022-01-18T13:25:09.482Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://livelystage.com/favicon.png</icon>
+</feed>
