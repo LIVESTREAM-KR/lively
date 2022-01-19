@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Lively ─ LIVE</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 12:22:02 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[곽태풍]]></title>
-            <link>https://livelystage.com/live-detail/221</link>
-            <guid>https://livelystage.com/live-detail/221</guid>
-            <pubDate>Wed, 19 Jan 2022 12:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[1월 19일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/221_poster.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://livelystage.com/</id>
+    <title>Lively ─ LIVE</title>
+    <updated>2022-01-19T13:17:40.871Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://livelystage.com/favicon.png</icon>
+</feed>
