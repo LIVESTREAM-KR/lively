@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 08:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 09:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -163,7 +163,7 @@
             <title><![CDATA[조우재 (Lively)]]></title>
             <link>https://livelystage.com/live-detail/230</link>
             <guid>https://livelystage.com/live-detail/230</guid>
-            <pubDate>Thu, 20 Jan 2022 08:16:50 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 08:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2월 3일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/230_poster.png" length="0" type="image/png"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[임수연 (Lively)]]></title>
             <link>https://livelystage.com/live-detail/231</link>
             <guid>https://livelystage.com/live-detail/231</guid>
-            <pubDate>Thu, 20 Jan 2022 08:16:50 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 08:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2월 4일 (금) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/231_poster.png" length="0" type="image/png"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[오붓 (Lively)]]></title>
             <link>https://livelystage.com/live-detail/232</link>
             <guid>https://livelystage.com/live-detail/232</guid>
-            <pubDate>Thu, 20 Jan 2022 08:16:50 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 08:16:41 GMT</pubDate>
             <content:encoded><![CDATA[2월 5일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/232_poster.png" length="0" type="image/png"/>
         </item>
