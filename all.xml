@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -115,7 +115,7 @@
             <title><![CDATA[SAGA (Lively)]]></title>
             <link>https://livelystage.com/live-detail/233</link>
             <guid>https://livelystage.com/live-detail/233</guid>
-            <pubDate>Thu, 27 Jan 2022 06:17:04 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 06:16:57 GMT</pubDate>
             <content:encoded><![CDATA[2월 6일 (일) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/233_poster.png" length="0" type="image/png"/>
         </item>
@@ -123,7 +123,7 @@
             <title><![CDATA[이인세 (INSE) (Lively)]]></title>
             <link>https://livelystage.com/live-detail/234</link>
             <guid>https://livelystage.com/live-detail/234</guid>
-            <pubDate>Thu, 27 Jan 2022 06:17:04 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 06:16:57 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/234_poster.png" length="0" type="image/png"/>
         </item>
@@ -131,7 +131,7 @@
             <title><![CDATA[Dazzling Jihye (Lively)]]></title>
             <link>https://livelystage.com/live-detail/235</link>
             <guid>https://livelystage.com/live-detail/235</guid>
-            <pubDate>Thu, 27 Jan 2022 06:17:04 GMT</pubDate>
+            <pubDate>Thu, 27 Jan 2022 06:16:57 GMT</pubDate>
             <content:encoded><![CDATA[2월 11일 (금) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/235_poster.png" length="0" type="image/png"/>
         </item>
