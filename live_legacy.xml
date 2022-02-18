@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://livelystage.com/</id>
-    <title>Lively ─ LIVE</title>
-    <updated>2022-02-18T05:13:40.512Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://livelystage.com/favicon.png</icon>
-</feed>
