@@ -17,3 +17,23 @@ linkSelector = "a[class='_flex_8t66z_13 _width_100_gutzh_13 _height_100_gutzh_25
 contentSelector = "div[class='_relative_dg4qx_1 _app_p_a6o19_1 _regular_a6o19_364 _wrap_a6o19_377 _keepWord_a6o19_382 _none_1f8id_1']"
 imageSelector = "picture[class='_box_1966t_1 _width_100_gutzh_13 _height_100_gutzh_25 _cover_1966t_7'] img"
 waitUntil = "networkidle"
+
+[livelystage_lives_finished]
+title = "Lively ─ 지난 공연"
+url = "https://livelystage.com/lives/finished"
+entrySelector = "div._flexGrow_1_2mya0_81 > section > div > div > div:nth-child(2) > div > div > div > div > div > div"
+titleSelector = "div[class='_relative_dg4qx_1 _app_p_mont_a6o19_1 _secondaryBold_a6o19_372 _wrap_a6o19_377 _keepWord_a6o19_382 _secondary_a6o19_1 _none_1f8id_1']"
+linkSelector = "a[class='_flex_8t66z_13 _width_100_gutzh_13 _height_100_gutzh_25']"
+contentSelector = "div[class='_relative_dg4qx_1 _app_p_a6o19_1 _regular_a6o19_364 _wrap_a6o19_377 _keepWord_a6o19_382 _none_1f8id_1']"
+imageSelector = "picture[class='_box_1966t_1 _width_100_gutzh_13 _height_100_gutzh_25 _cover_1966t_7'] img"
+waitUntil = "networkidle"
+
+[livelystage_lives_finished_legacy]
+title = "Lively ─ 지난 공연"
+url = "https://livelystage.com/lives/finished"
+entrySelector = "div._flexGrow_1_2mya0_81 > section > div > div > div:nth-child(2) > div > div > div > div > div > div"
+titleSelector = "div[class='_relative_dg4qx_1 _app_p_a6o19_1 _bold_a6o19_368 _wrap_a6o19_377 _keepWord_a6o19_382 _none_1f8id_1']"
+linkSelector = "a[class='_flex_8t66z_13 _width_100_gutzh_13 _height_100_gutzh_25']"
+contentSelector = "div[class='_relative_dg4qx_1 _app_p_a6o19_1 _regular_a6o19_364 _wrap_a6o19_377 _keepWord_a6o19_382 _none_1f8id_1']"
+imageSelector = "picture[class='_box_1966t_1 _width_100_gutzh_13 _height_100_gutzh_25 _cover_1966t_7'] img"
+waitUntil = "networkidle"
