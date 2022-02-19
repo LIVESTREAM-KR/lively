@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 11:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 12:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[4 SEASON GREETING]]></title>
-            <link>https://livelystage.com/live-detail/240</link>
-            <guid>https://livelystage.com/live-detail/240</guid>
-            <pubDate>Fri, 18 Feb 2022 06:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[2월 19일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/240_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[LETTER FROM US]]></title>
             <link>https://livelystage.com/live-detail/241</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 18 Feb 2022 12:22:57 GMT</pubDate>
             <content:encoded><![CDATA[2월 28일 (월) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/247_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MY OLD DIARY]]></title>
+            <link>https://livelystage.com/live-detail/248</link>
+            <guid>https://livelystage.com/live-detail/248</guid>
+            <pubDate>Sat, 19 Feb 2022 12:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/248_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
