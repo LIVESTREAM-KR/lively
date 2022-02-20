@@ -4,9 +4,17 @@
         <title>Lively ─ 지난 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 13:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 14:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유다빈밴드]]></title>
+            <link>https://livelystage.com/live-detail/241</link>
+            <guid>https://livelystage.com/live-detail/241</guid>
+            <pubDate>Sun, 20 Feb 2022 14:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[2월 20일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/241_poster.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신온유와 김강]]></title>
             <link>https://livelystage.com/live-detail/240</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/238_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[임지안 (LIM ZIAN) & 하이브로]]></title>
+            <title><![CDATA[하이브로 & 임지안 (LIM ZIAN)]]></title>
             <link>https://livelystage.com/live-detail/237</link>
             <guid>https://livelystage.com/live-detail/237</guid>
             <pubDate>Fri, 18 Feb 2022 07:09:05 GMT</pubDate>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 18 Feb 2022 07:09:05 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/234_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오붓]]></title>
-            <link>https://livelystage.com/live-detail/232</link>
-            <guid>https://livelystage.com/live-detail/232</guid>
-            <pubDate>Fri, 18 Feb 2022 07:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[2월 5일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/232_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
