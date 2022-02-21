@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 11:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 12:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[종연]]></title>
-            <link>https://livelystage.com/live-detail/242</link>
-            <guid>https://livelystage.com/live-detail/242</guid>
-            <pubDate>Fri, 18 Feb 2022 06:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[2월 21일 (월) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/242_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[이현정]]></title>
             <link>https://livelystage.com/live-detail/243</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 20 Feb 2022 12:21:31 GMT</pubDate>
             <content:encoded><![CDATA[3월 5일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/249_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[와인루프 (Wine Loop)]]></title>
+            <link>https://livelystage.com/live-detail/250</link>
+            <guid>https://livelystage.com/live-detail/250</guid>
+            <pubDate>Mon, 21 Feb 2022 12:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[3월 6일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/250_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
