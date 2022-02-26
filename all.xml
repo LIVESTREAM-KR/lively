@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 07:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 08:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
             <title><![CDATA[홍다연 (Lively ─ 다가오는 공연)]]></title>
             <link>https://livelystage.com/live-detail/253</link>
             <guid>https://livelystage.com/live-detail/253</guid>
-            <pubDate>Sat, 26 Feb 2022 07:13:29 GMT</pubDate>
+            <pubDate>Sat, 26 Feb 2022 07:13:22 GMT</pubDate>
             <content:encoded><![CDATA[3월 11일 (금) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/253_poster.png" length="0" type="image/png"/>
         </item>
