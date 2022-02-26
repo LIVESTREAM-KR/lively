@@ -4,7 +4,7 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 06:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 07:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 18 Feb 2022 06:12:41 GMT</pubDate>
             <content:encoded><![CDATA[2월 26일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/245_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[바비핀스 (Bobby Pins)]]></title>
-            <link>https://livelystage.com/live-detail/246</link>
-            <guid>https://livelystage.com/live-detail/246</guid>
-            <pubDate>Fri, 18 Feb 2022 06:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[2월 27일 (일) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/246_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[그을]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 25 Feb 2022 12:23:14 GMT</pubDate>
             <content:encoded><![CDATA[3월 10일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/252_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[홍다연]]></title>
+            <link>https://livelystage.com/live-detail/253</link>
+            <guid>https://livelystage.com/live-detail/253</guid>
+            <pubDate>Sat, 26 Feb 2022 07:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[3월 11일 (금) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/253_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
