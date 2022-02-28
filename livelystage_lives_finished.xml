@@ -4,9 +4,17 @@
         <title>Lively ─ 지난 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 12:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 13:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CAUSE I'M GREEDY AND SCARED]]></title>
+            <link>https://livelystage.com/live-detail/247</link>
+            <guid>https://livelystage.com/live-detail/247</guid>
+            <pubDate>Mon, 28 Feb 2022 13:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[2월 28일 (월) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/247_poster.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[BLAST FROM THE PAST]]></title>
             <link>https://livelystage.com/live-detail/245</link>
@@ -62,14 +70,6 @@
             <pubDate>Fri, 18 Feb 2022 14:13:39 GMT</pubDate>
             <content:encoded><![CDATA[2월 18일 (금) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/239_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[THE END OF WINTER]]></title>
-            <link>https://livelystage.com/live-detail/238</link>
-            <guid>https://livelystage.com/live-detail/238</guid>
-            <pubDate>Fri, 18 Feb 2022 07:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[2월 17일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/238_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
