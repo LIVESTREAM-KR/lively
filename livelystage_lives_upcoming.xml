@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 03:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[MY OLD DIARY]]></title>
-            <link>https://livelystage.com/live-detail/248</link>
-            <guid>https://livelystage.com/live-detail/248</guid>
-            <pubDate>Sat, 19 Feb 2022 12:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/248_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[TE JONG LIVE]]></title>
             <link>https://livelystage.com/live-detail/249</link>
@@ -70,6 +62,14 @@
             <pubDate>Mon, 28 Feb 2022 12:23:52 GMT</pubDate>
             <content:encoded><![CDATA[3월 13일 (일) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/255_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BRIGHTER THAN STARS]]></title>
+            <link>https://livelystage.com/live-detail/256</link>
+            <guid>https://livelystage.com/live-detail/256</guid>
+            <pubDate>Thu, 03 Mar 2022 03:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[3월 14일 (월) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/256_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
