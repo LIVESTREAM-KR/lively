@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 13:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 14:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/257_poster.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[TE JONG LIVE (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/249</link>
+            <guid>https://livelystage.com/live-detail/249</guid>
+            <pubDate>Sat, 05 Mar 2022 14:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 5일 (토) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/249_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[CAUSE I'M GREEDY AND SCARED (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/247</link>
             <guid>https://livelystage.com/live-detail/247</guid>
@@ -192,12 +200,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/240_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BRING MORE LIQUOR. (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/239</link>
-            <guid>https://livelystage.com/live-detail/239</guid>
-            <pubDate>Fri, 18 Feb 2022 14:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2월 18일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/239_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[테종 (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/249</link>
+            <guid>https://livelystage.com/live-detail/249</guid>
+            <pubDate>Sat, 05 Mar 2022 14:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[3월 5일 (토) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/249_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[그을 (Lively ─ 지난 공연)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Sat, 19 Feb 2022 14:13:32 GMT</pubDate>
             <content:encoded><![CDATA[2월 19일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/240_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[eqwa (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/239</link>
-            <guid>https://livelystage.com/live-detail/239</guid>
-            <pubDate>Fri, 18 Feb 2022 14:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[2월 18일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/239_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
