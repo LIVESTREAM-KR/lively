@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 11:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 12:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[테종]]></title>
-            <link>https://livelystage.com/live-detail/249</link>
-            <guid>https://livelystage.com/live-detail/249</guid>
-            <pubDate>Sun, 20 Feb 2022 12:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[3월 5일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/249_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[와인루프 (Wine Loop)]]></title>
             <link>https://livelystage.com/live-detail/250</link>
@@ -70,6 +62,14 @@
             <pubDate>Thu, 03 Mar 2022 03:17:02 GMT</pubDate>
             <content:encoded><![CDATA[3월 14일 (월) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/256_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[투 데이 올드 스니커즈]]></title>
+            <link>https://livelystage.com/live-detail/257</link>
+            <guid>https://livelystage.com/live-detail/257</guid>
+            <pubDate>Sat, 05 Mar 2022 12:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[3월 15일 (화) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/257_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
