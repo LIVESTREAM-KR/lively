@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 13:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 14:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[와인루프 (Wine Loop) (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/250</link>
             <guid>https://livelystage.com/live-detail/250</guid>
-            <pubDate>Sun, 06 Mar 2022 13:17:14 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2022 13:17:06 GMT</pubDate>
             <content:encoded><![CDATA[3월 6일 (일) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/250_poster.png" length="0" type="image/png"/>
         </item>
