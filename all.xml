@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 12:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 13:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,9 +131,17 @@
             <title><![CDATA[앨리스(ALICE) (Lively ─ 다가오는 공연)]]></title>
             <link>https://livelystage.com/live-detail/259</link>
             <guid>https://livelystage.com/live-detail/259</guid>
-            <pubDate>Sun, 06 Mar 2022 12:22:41 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2022 12:22:33 GMT</pubDate>
             <content:encoded><![CDATA[3월 18일 (금) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/259_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ROMANCE SEASON (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/250</link>
+            <guid>https://livelystage.com/live-detail/250</guid>
+            <pubDate>Sun, 06 Mar 2022 13:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[3월 6일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/250_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[TE JONG LIVE (Lively ─ 지난 공연)]]></title>
@@ -192,12 +200,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/241_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[4 SEASON GREETING (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/240</link>
-            <guid>https://livelystage.com/live-detail/240</guid>
-            <pubDate>Sat, 19 Feb 2022 14:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[2월 19일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/240_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[와인루프 (Wine Loop) (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/250</link>
+            <guid>https://livelystage.com/live-detail/250</guid>
+            <pubDate>Sun, 06 Mar 2022 13:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[3월 6일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/250_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[테종 (Lively ─ 지난 공연)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Sun, 20 Feb 2022 14:13:14 GMT</pubDate>
             <content:encoded><![CDATA[2월 20일 (일) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/241_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신온유와 김강 (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/240</link>
-            <guid>https://livelystage.com/live-detail/240</guid>
-            <pubDate>Sat, 19 Feb 2022 14:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[2월 19일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/240_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
