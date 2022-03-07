@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/257_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[SEE ME IN YOUR IMAGINATION! (Lively ─ 다가오는 공연)]]></title>
-            <link>https://livelystage.com/live-detail/259</link>
-            <guid>https://livelystage.com/live-detail/259</guid>
-            <pubDate>Sun, 06 Mar 2022 12:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[3월 18일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/259_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[WE WERE LAZY. (Lively ─ 다가오는 공연)]]></title>
+            <link>https://livelystage.com/live-detail/260</link>
+            <guid>https://livelystage.com/live-detail/260</guid>
+            <pubDate>Mon, 07 Mar 2022 07:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[3월 19일 (토) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/260_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[프프밴드 (Lively ─ 다가오는 공연)]]></title>
@@ -128,12 +128,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/257_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[앨리스(ALICE) (Lively ─ 다가오는 공연)]]></title>
-            <link>https://livelystage.com/live-detail/259</link>
-            <guid>https://livelystage.com/live-detail/259</guid>
-            <pubDate>Sun, 06 Mar 2022 12:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[3월 18일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/259_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[뉘뉘(NUITNUIT) (Lively ─ 다가오는 공연)]]></title>
+            <link>https://livelystage.com/live-detail/260</link>
+            <guid>https://livelystage.com/live-detail/260</guid>
+            <pubDate>Mon, 07 Mar 2022 07:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[3월 19일 (토) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/260_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[ROMANCE SEASON (Lively ─ 지난 공연)]]></title>
