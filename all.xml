@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 12:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 13:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,9 +131,17 @@
             <title><![CDATA[복다진 (Lively ─ 다가오는 공연)]]></title>
             <link>https://livelystage.com/live-detail/262</link>
             <guid>https://livelystage.com/live-detail/262</guid>
-            <pubDate>Thu, 10 Mar 2022 12:24:51 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2022 12:24:43 GMT</pubDate>
             <content:encoded><![CDATA[3월 22일 (화) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/262_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[IN MY MIND (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/252</link>
+            <guid>https://livelystage.com/live-detail/252</guid>
+            <pubDate>Thu, 10 Mar 2022 13:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[3월 10일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/252_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[FOUR PALETTE FOR YOU (Lively ─ 지난 공연)]]></title>
@@ -192,12 +200,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/243_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[WE NEED PARADISE (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/242</link>
-            <guid>https://livelystage.com/live-detail/242</guid>
-            <pubDate>Mon, 21 Feb 2022 13:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[2월 21일 (월) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/242_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[828 (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/252</link>
+            <guid>https://livelystage.com/live-detail/252</guid>
+            <pubDate>Thu, 10 Mar 2022 13:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[3월 10일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/252_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[프프밴드 (Lively ─ 지난 공연)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 22 Feb 2022 13:19:18 GMT</pubDate>
             <content:encoded><![CDATA[2월 22일 (화) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/243_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[종연 (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/242</link>
-            <guid>https://livelystage.com/live-detail/242</guid>
-            <pubDate>Mon, 21 Feb 2022 13:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[2월 21일 (월) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/242_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
