@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 13:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 14:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[이르다 (irda) (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/275</link>
             <guid>https://livelystage.com/live-detail/275</guid>
-            <pubDate>Sun, 10 Apr 2022 13:21:41 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2022 13:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; flex-direction: column;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; overflow: hidden;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="padding-bottom: 142.202%; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="position: absolute; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;"><picture class="_box_1966t_1 _width_100_gutzh_13 _height_100_gutzh_25 _cover_1966t_7"><source type="image/webp" srcset="https://cf.livelystage.com/contents/images/poster/275_poster.webp"><img src="https://cf.livelystage.com/contents/images/poster/275_poster.png"></picture></div></div></div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); height: calc(var(--lively-view-scale) * 12px);"></div><div class="_relative_dg4qx_1 _app_p_mont_a6o19_1 _secondaryBold_a6o19_372 _wrap_a6o19_377 _keepWord_a6o19_382 _secondary_a6o19_1 _none_1f8id_1" style="color: rgb(255, 255, 255);">WHEN WE REACH YOUR HEART,</div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="margin-top: calc(var(--lively-view-scale) * 8px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_relative_dg4qx_1 _app_p_a6o19_1 _bold_a6o19_368 _wrap_a6o19_377 _keepWord_a6o19_382 _none_1f8id_1" style="color: rgb(255, 255, 255);">이르다 (irda)</div><div class="_relative_dg4qx_1 _app_small_a6o19_1 _regular_a6o19_364 _wrap_a6o19_377 _keepWord_a6o19_382 _none_1f8id_1" style="color: rgb(216, 216, 216);">4월 10일 (일) 오후 12시</div></div></div>]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/275_poster.png" length="0" type="image/png"/>
         </item>
