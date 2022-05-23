@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 12:30:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 13:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,9 +131,17 @@
             <title><![CDATA[Low Hanging Fruits (Lively ─ 다가오는 공연)]]></title>
             <link>https://livelystage.com/live-detail/318</link>
             <guid>https://livelystage.com/live-detail/318</guid>
-            <pubDate>Mon, 23 May 2022 12:30:05 GMT</pubDate>
+            <pubDate>Mon, 23 May 2022 12:29:55 GMT</pubDate>
             <content:encoded><![CDATA[6월 2일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/318_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DAWN (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/310</link>
+            <guid>https://livelystage.com/live-detail/310</guid>
+            <pubDate>Mon, 23 May 2022 13:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[5월 23일 (월) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/310_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[WE LOVE OUR MOMENTS (Lively ─ 지난 공연)]]></title>
@@ -192,12 +200,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/298_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[WE ARE ALIVE WITH THE SONG (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/299</link>
-            <guid>https://livelystage.com/live-detail/299</guid>
-            <pubDate>Fri, 06 May 2022 13:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[5월 6일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/288_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[정새벽 (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/310</link>
+            <guid>https://livelystage.com/live-detail/310</guid>
+            <pubDate>Mon, 23 May 2022 13:37:21 GMT</pubDate>
+            <content:encoded><![CDATA[5월 23일 (월) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/310_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이다빈 (Lively ─ 지난 공연)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Sat, 07 May 2022 13:25:09 GMT</pubDate>
             <content:encoded><![CDATA[5월 7일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/298_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김미소 (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/299</link>
-            <guid>https://livelystage.com/live-detail/299</guid>
-            <pubDate>Fri, 06 May 2022 13:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[5월 6일 (금) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/288_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
