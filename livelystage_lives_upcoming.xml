@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 11:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 12:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[JOY ONLY HAPPY AND]]></title>
-            <link>https://livelystage.com/live-detail/311</link>
-            <guid>https://livelystage.com/live-detail/311</guid>
-            <pubDate>Wed, 11 May 2022 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[5월 24일 (화) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/311_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[START!]]></title>
             <link>https://livelystage.com/live-detail/312</link>
@@ -70,6 +62,14 @@
             <pubDate>Mon, 23 May 2022 12:29:55 GMT</pubDate>
             <content:encoded><![CDATA[6월 2일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/318_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[weplay Ep.1：정우 편]]></title>
+            <link>https://livelystage.com/live-detail/307</link>
+            <guid>https://livelystage.com/live-detail/307</guid>
+            <pubDate>Tue, 24 May 2022 12:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[6월 4일 (토) 오전 7시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/307_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
