@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 11:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 12:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Scon]]></title>
-            <link>https://livelystage.com/live-detail/312</link>
-            <guid>https://livelystage.com/live-detail/312</guid>
-            <pubDate>Thu, 12 May 2022 12:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[5월 25일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/312_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[이글루베이]]></title>
             <link>https://livelystage.com/live-detail/314</link>
@@ -70,6 +62,14 @@
             <pubDate>Tue, 24 May 2022 12:31:51 GMT</pubDate>
             <content:encoded><![CDATA[6월 4일 (토) 오전 7시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/307_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Purbi (펄비)]]></title>
+            <link>https://livelystage.com/live-detail/319</link>
+            <guid>https://livelystage.com/live-detail/319</guid>
+            <pubDate>Wed, 25 May 2022 12:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[6월 5일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/319_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
