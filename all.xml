@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 11:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 12:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[MIDNIGHT, IGLOO (Lively ─ 다가오는 공연)]]></title>
-            <link>https://livelystage.com/live-detail/314</link>
-            <guid>https://livelystage.com/live-detail/314</guid>
-            <pubDate>Sun, 22 May 2022 16:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[5월 26일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/306_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[MESSAGE (Lively ─ 다가오는 공연)]]></title>
             <link>https://livelystage.com/live-detail/313</link>
@@ -72,12 +64,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/319_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이글루베이 (Lively ─ 다가오는 공연)]]></title>
-            <link>https://livelystage.com/live-detail/314</link>
-            <guid>https://livelystage.com/live-detail/314</guid>
-            <pubDate>Sun, 22 May 2022 16:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[5월 26일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/306_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[TO YOUTH, BLUES, COLORS VOL. 2 (Lively ─ 다가오는 공연)]]></title>
+            <link>https://livelystage.com/live-detail/320</link>
+            <guid>https://livelystage.com/live-detail/320</guid>
+            <pubDate>Thu, 26 May 2022 12:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[6월 7일 (화) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/320_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우물 (Lively ─ 다가오는 공연)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 25 May 2022 12:30:50 GMT</pubDate>
             <content:encoded><![CDATA[6월 5일 (일) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/319_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오드 (ode) (Lively ─ 다가오는 공연)]]></title>
+            <link>https://livelystage.com/live-detail/320</link>
+            <guid>https://livelystage.com/live-detail/320</guid>
+            <pubDate>Thu, 26 May 2022 12:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[6월 7일 (화) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/320_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[START! (Lively ─ 지난 공연)]]></title>
