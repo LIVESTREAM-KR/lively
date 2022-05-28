@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 12:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 13:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
             <title><![CDATA[유다빈 (Lively ─ 다가오는 공연)]]></title>
             <link>https://livelystage.com/live-detail/321</link>
             <guid>https://livelystage.com/live-detail/321</guid>
-            <pubDate>Sat, 28 May 2022 12:26:59 GMT</pubDate>
+            <pubDate>Sat, 28 May 2022 12:26:47 GMT</pubDate>
             <content:encoded><![CDATA[6월 8일 (수) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/321_poster.png" length="0" type="image/png"/>
         </item>
