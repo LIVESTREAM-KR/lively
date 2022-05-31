@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 11:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 12:32:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[삼치와 이기리]]></title>
-            <link>https://livelystage.com/live-detail/316</link>
-            <guid>https://livelystage.com/live-detail/316</guid>
-            <pubDate>Sun, 22 May 2022 16:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[5월 31일 (화) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/316_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Zayvo (제이보)]]></title>
             <link>https://livelystage.com/live-detail/317</link>
@@ -70,6 +62,14 @@
             <pubDate>Sun, 29 May 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[6월 9일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/322_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OFF.E (오프이)]]></title>
+            <link>https://livelystage.com/live-detail/323</link>
+            <guid>https://livelystage.com/live-detail/323</guid>
+            <pubDate>Tue, 31 May 2022 12:32:12 GMT</pubDate>
+            <content:encoded><![CDATA[6월 11일 (토) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/323_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
