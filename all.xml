@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 13:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 14:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[삼치와 이기리 (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/316</link>
             <guid>https://livelystage.com/live-detail/316</guid>
-            <pubDate>Tue, 31 May 2022 13:39:39 GMT</pubDate>
+            <pubDate>Tue, 31 May 2022 13:39:29 GMT</pubDate>
             <content:encoded><![CDATA[5월 31일 (화) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/316_poster.png" length="0" type="image/png"/>
         </item>
