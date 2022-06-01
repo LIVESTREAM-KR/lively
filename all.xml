@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 13:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 14:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[Zayvo (제이보) (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/317</link>
             <guid>https://livelystage.com/live-detail/317</guid>
-            <pubDate>Wed, 01 Jun 2022 13:47:01 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2022 13:46:51 GMT</pubDate>
             <content:encoded><![CDATA[6월 1일 (수) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/317_poster.png" length="0" type="image/png"/>
         </item>
