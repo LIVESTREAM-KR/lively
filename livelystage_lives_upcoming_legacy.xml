@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 11:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 12:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Low Hanging Fruits]]></title>
-            <link>https://livelystage.com/live-detail/318</link>
-            <guid>https://livelystage.com/live-detail/318</guid>
-            <pubDate>Mon, 23 May 2022 12:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[6월 2일 (목) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/318_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[정우]]></title>
             <link>https://livelystage.com/live-detail/307</link>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 01 Jun 2022 12:35:08 GMT</pubDate>
             <content:encoded><![CDATA[6월 12일 (일) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/324_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[나상현씨밴드]]></title>
+            <link>https://livelystage.com/live-detail/308</link>
+            <guid>https://livelystage.com/live-detail/308</guid>
+            <pubDate>Thu, 02 Jun 2022 12:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[6월 17일 (금) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/308_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
