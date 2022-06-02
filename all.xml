@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 13:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 14:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[Low Hanging Fruits (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/318</link>
             <guid>https://livelystage.com/live-detail/318</guid>
-            <pubDate>Thu, 02 Jun 2022 13:43:53 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2022 13:43:44 GMT</pubDate>
             <content:encoded><![CDATA[6월 2일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/318_poster.png" length="0" type="image/png"/>
         </item>
