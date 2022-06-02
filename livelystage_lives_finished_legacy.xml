@@ -4,9 +4,17 @@
         <title>Lively ─ 지난 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 12:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 13:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Low Hanging Fruits]]></title>
+            <link>https://livelystage.com/live-detail/318</link>
+            <guid>https://livelystage.com/live-detail/318</guid>
+            <pubDate>Thu, 02 Jun 2022 13:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[6월 2일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/318_poster.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Zayvo (제이보)]]></title>
             <link>https://livelystage.com/live-detail/317</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 24 May 2022 13:37:58 GMT</pubDate>
             <content:encoded><![CDATA[5월 24일 (화) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/311_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[정새벽]]></title>
-            <link>https://livelystage.com/live-detail/310</link>
-            <guid>https://livelystage.com/live-detail/310</guid>
-            <pubDate>Mon, 23 May 2022 13:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[5월 23일 (월) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/310_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
