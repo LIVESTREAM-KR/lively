@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 11:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 12:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[NIGHT, PIANO, ALONE (Lively ─ 다가오는 공연)]]></title>
-            <link>https://livelystage.com/live-detail/319</link>
-            <guid>https://livelystage.com/live-detail/319</guid>
-            <pubDate>Wed, 25 May 2022 12:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[6월 5일 (일) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/319_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[TO YOUTH, BLUES, COLORS VOL. 2 (Lively ─ 다가오는 공연)]]></title>
             <link>https://livelystage.com/live-detail/320</link>
@@ -70,14 +62,6 @@
             <pubDate>Sat, 04 Jun 2022 07:15:12 GMT</pubDate>
             <content:encoded><![CDATA[6월 18일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/325_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Purbi (펄비) (Lively ─ 다가오는 공연)]]></title>
-            <link>https://livelystage.com/live-detail/319</link>
-            <guid>https://livelystage.com/live-detail/319</guid>
-            <pubDate>Wed, 25 May 2022 12:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[6월 5일 (일) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/319_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오드 (ode) (Lively ─ 다가오는 공연)]]></title>
