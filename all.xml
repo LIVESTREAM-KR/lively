@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 12:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 13:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/325_poster.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[NIGHT, PIANO, ALONE (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/319</link>
+            <guid>https://livelystage.com/live-detail/319</guid>
+            <pubDate>Sun, 05 Jun 2022 13:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[6월 5일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/319_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[weplay Ep.1：정우 편 (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/307</link>
             <guid>https://livelystage.com/live-detail/307</guid>
@@ -176,12 +184,12 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/306_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[START! (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/312</link>
-            <guid>https://livelystage.com/live-detail/312</guid>
-            <pubDate>Wed, 25 May 2022 13:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[5월 25일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/312_poster.png" length="0" type="image/png"/>
+            <title><![CDATA[Purbi (펄비) (Lively ─ 지난 공연)]]></title>
+            <link>https://livelystage.com/live-detail/319</link>
+            <guid>https://livelystage.com/live-detail/319</guid>
+            <pubDate>Sun, 05 Jun 2022 13:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[6월 5일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/319_poster.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정우 (Lively ─ 지난 공연)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 13:35:22 GMT</pubDate>
             <content:encoded><![CDATA[5월 26일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/306_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Scon (Lively ─ 지난 공연)]]></title>
-            <link>https://livelystage.com/live-detail/312</link>
-            <guid>https://livelystage.com/live-detail/312</guid>
-            <pubDate>Wed, 25 May 2022 13:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[5월 25일 (수) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/312_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
