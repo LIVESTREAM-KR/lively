@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 13:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 14:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[김 봄 (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/322</link>
             <guid>https://livelystage.com/live-detail/322</guid>
-            <pubDate>Thu, 09 Jun 2022 13:35:43 GMT</pubDate>
+            <pubDate>Thu, 09 Jun 2022 13:35:33 GMT</pubDate>
             <content:encoded><![CDATA[6월 9일 (목) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/322_poster.png" length="0" type="image/png"/>
         </item>
