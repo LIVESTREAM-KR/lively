@@ -4,9 +4,17 @@
         <title>Lively ─ 지난 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 12:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 13:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A STILL WINTER STORY]]></title>
+            <link>https://livelystage.com/live-detail/322</link>
+            <guid>https://livelystage.com/live-detail/322</guid>
+            <pubDate>Thu, 09 Jun 2022 13:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[6월 9일 (목) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/322_poster.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[SONG OF BIRD]]></title>
             <link>https://livelystage.com/live-detail/321</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 31 May 2022 13:39:29 GMT</pubDate>
             <content:encoded><![CDATA[5월 31일 (화) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/316_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TAKE CARE!]]></title>
-            <link>https://livelystage.com/live-detail/315</link>
-            <guid>https://livelystage.com/live-detail/315</guid>
-            <pubDate>Sun, 29 May 2022 13:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[5월 29일 (일) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/315_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
