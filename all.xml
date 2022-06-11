@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 13:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 14:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[OFF.E (오프이) (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/323</link>
             <guid>https://livelystage.com/live-detail/323</guid>
-            <pubDate>Sat, 11 Jun 2022 13:22:43 GMT</pubDate>
+            <pubDate>Sat, 11 Jun 2022 13:22:33 GMT</pubDate>
             <content:encoded><![CDATA[6월 11일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/323_poster.png" length="0" type="image/png"/>
         </item>
