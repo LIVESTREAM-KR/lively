@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 13:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 14:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <title><![CDATA[SE YEON (이세연) (Lively ─ 지난 공연)]]></title>
             <link>https://livelystage.com/live-detail/325</link>
             <guid>https://livelystage.com/live-detail/325</guid>
-            <pubDate>Sat, 18 Jun 2022 13:24:40 GMT</pubDate>
+            <pubDate>Sat, 18 Jun 2022 13:24:30 GMT</pubDate>
             <content:encoded><![CDATA[6월 18일 (토) 오후 12시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/325_poster.png" length="0" type="image/png"/>
         </item>
