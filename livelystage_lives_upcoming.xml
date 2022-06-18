@@ -4,17 +4,9 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 11:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 12:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[SWEET LETTER]]></title>
-            <link>https://livelystage.com/live-detail/325</link>
-            <guid>https://livelystage.com/live-detail/325</guid>
-            <pubDate>Sat, 04 Jun 2022 07:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[6월 18일 (토) 오후 12시]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/325_poster.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[SCENT FOR THE SONG]]></title>
             <link>https://livelystage.com/live-detail/326</link>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 17 Jun 2022 12:31:54 GMT</pubDate>
             <content:encoded><![CDATA[6월 25일 (토) 오전 8시]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/332_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WHAT HAPPENED ON EARTH!]]></title>
+            <link>https://livelystage.com/live-detail/333</link>
+            <guid>https://livelystage.com/live-detail/333</guid>
+            <pubDate>Sat, 18 Jun 2022 12:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[6월 26일 (일) 오후 12시]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/333_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
