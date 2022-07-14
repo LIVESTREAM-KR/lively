@@ -4,19 +4,11 @@
         <title>Lively ─ 다가오는 공연</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 12:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[0]]></title>
-            <link>https://livelystage.com/live-detail/347</link>
-            <guid>https://livelystage.com/live-detail/347</guid>
-            <pubDate>Tue, 05 Jul 2022 12:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; flex-direction: column;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; overflow: hidden;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="padding-bottom: 142.202%; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="position: absolute; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;"><picture class="_box_1966t_1 _width_100_gutzh_13 _height_100_gutzh_25 _cover_1966t_7"><source type="image/webp" srcset="https://cf.livelystage.com/contents/images/poster/347_poster.webp"><img src="https://cf.livelystage.com/contents/images/poster/347_poster.png"></picture></div></div></div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); height: calc(var(--lively-view-scale) * 12px); flex-grow: 0; flex-shrink: 0;"></div><div class="_relative_dg4qx_1 _app_p_mont_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _secondary_1o27f_1 _none_1f8id_1" style="color: rgb(255, 255, 255); font-weight: 900;">LOVE AND HATE</div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="margin-top: calc(var(--lively-view-scale) * 8px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_relative_dg4qx_1 _app_p_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _none_1f8id_1" style="color: rgb(255, 255, 255); font-weight: 700;">ADYNE, 이무이(2EE MOOEE)</div><div class="_relative_dg4qx_1 _app_small_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _none_1f8id_1" style="color: rgb(158, 164, 170);">7월 14일 (목) 오후 12시</div></div></div>]]></content:encoded>
-            <enclosure url="https://cf.livelystage.com/contents/images/poster/347_poster.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[1]]></title>
             <link>https://livelystage.com/live-detail/348</link>
             <guid>https://livelystage.com/live-detail/348</guid>
             <pubDate>Wed, 06 Jul 2022 12:33:44 GMT</pubDate>
@@ -24,7 +16,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/348_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2]]></title>
+            <title><![CDATA[1]]></title>
             <link>https://livelystage.com/live-detail/349</link>
             <guid>https://livelystage.com/live-detail/349</guid>
             <pubDate>Thu, 07 Jul 2022 12:32:05 GMT</pubDate>
@@ -32,7 +24,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/349_poster_v2.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[3]]></title>
+            <title><![CDATA[2]]></title>
             <link>https://livelystage.com/live-detail/350</link>
             <guid>https://livelystage.com/live-detail/350</guid>
             <pubDate>Fri, 08 Jul 2022 12:38:20 GMT</pubDate>
@@ -40,7 +32,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/350_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[4]]></title>
+            <title><![CDATA[3]]></title>
             <link>https://livelystage.com/live-detail/351</link>
             <guid>https://livelystage.com/live-detail/351</guid>
             <pubDate>Sat, 09 Jul 2022 13:25:17 GMT</pubDate>
@@ -48,7 +40,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/351_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[5]]></title>
+            <title><![CDATA[4]]></title>
             <link>https://livelystage.com/live-detail/352</link>
             <guid>https://livelystage.com/live-detail/352</guid>
             <pubDate>Sun, 10 Jul 2022 12:26:48 GMT</pubDate>
@@ -56,7 +48,7 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/352_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[6]]></title>
+            <title><![CDATA[5]]></title>
             <link>https://livelystage.com/live-detail/353</link>
             <guid>https://livelystage.com/live-detail/353</guid>
             <pubDate>Tue, 12 Jul 2022 12:43:49 GMT</pubDate>
@@ -64,12 +56,20 @@
             <enclosure url="https://cf.livelystage.com/contents/images/poster/353_poster.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[7]]></title>
+            <title><![CDATA[6]]></title>
             <link>https://livelystage.com/live-detail/354</link>
             <guid>https://livelystage.com/live-detail/354</guid>
             <pubDate>Wed, 13 Jul 2022 12:29:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; flex-direction: column;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; overflow: hidden;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="padding-bottom: 142.202%; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="position: absolute; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;"><picture class="_box_1966t_1 _width_100_gutzh_13 _height_100_gutzh_25 _cover_1966t_7"><source type="image/webp" srcset="https://cf.livelystage.com/contents/images/poster/354_poster.webp"><img src="https://cf.livelystage.com/contents/images/poster/354_poster.png"></picture></div></div></div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); height: calc(var(--lively-view-scale) * 12px); flex-grow: 0; flex-shrink: 0;"></div><div class="_relative_dg4qx_1 _app_p_mont_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _secondary_1o27f_1 _none_1f8id_1" style="color: rgb(255, 255, 255); font-weight: 900;">A STORY ONLY WE KNOW</div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="margin-top: calc(var(--lively-view-scale) * 8px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_relative_dg4qx_1 _app_p_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _none_1f8id_1" style="color: rgb(255, 255, 255); font-weight: 700;">팡호</div><div class="_relative_dg4qx_1 _app_small_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _none_1f8id_1" style="color: rgb(158, 164, 170);">7월 22일 (금) 오후 12시</div></div></div>]]></content:encoded>
             <enclosure url="https://cf.livelystage.com/contents/images/poster/354_poster.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7]]></title>
+            <link>https://livelystage.com/live-detail/355</link>
+            <guid>https://livelystage.com/live-detail/355</guid>
+            <pubDate>Thu, 14 Jul 2022 12:37:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; flex-direction: column;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; overflow: hidden;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="padding-bottom: 142.202%; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%;"><div class="_relative_dg4qx_1 _flex_8t66z_13" style="position: absolute; box-sizing: border-box; background-color: rgba(0, 0, 0, 0); width: 100%; height: 100%;"><picture class="_box_1966t_1 _width_100_gutzh_13 _height_100_gutzh_25 _cover_1966t_7"><source type="image/webp" srcset="https://cf.livelystage.com/contents/images/poster/355_poster.webp"><img src="https://cf.livelystage.com/contents/images/poster/355_poster.png"></picture></div></div></div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="box-sizing: border-box; background-color: rgba(0, 0, 0, 0); height: calc(var(--lively-view-scale) * 12px); flex-grow: 0; flex-shrink: 0;"></div><div class="_relative_dg4qx_1 _app_p_mont_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _secondary_1o27f_1 _none_1f8id_1" style="color: rgb(255, 255, 255); font-weight: 900;">ELECTRICPAD WITH SUMMER?</div><div class="_relative_dg4qx_1 _flex_8t66z_13" style="margin-top: calc(var(--lively-view-scale) * 8px); box-sizing: border-box; background-color: rgba(0, 0, 0, 0); flex-direction: column;"><div class="_relative_dg4qx_1 _app_p_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _none_1f8id_1" style="color: rgb(255, 255, 255); font-weight: 700;">전기장판</div><div class="_relative_dg4qx_1 _app_small_1o27f_1 _wrap_1o27f_425 _keepWord_1o27f_430 _none_1f8id_1" style="color: rgb(158, 164, 170);">7월 23일 (토) 오후 12시</div></div></div>]]></content:encoded>
+            <enclosure url="https://cf.livelystage.com/contents/images/poster/355_poster.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
